@@ -31,3 +31,10 @@ URL do curso -> [JavaScript - Validações e Reconhecimento de Voz](https://curs
 ## 02 - Aplicando a Função Math.random &#x1F516;
 * Mudar o HTML de forma dinâmica.
 * Utilizar o método `Math.random()` para gerar números aleatórios.
+
+***
+
+## 03 - Definindo a Voz com o Web Speech &#x1F516;
+* Utilizamos o Web Speech API para realizar o reconhecimento de voz do nosso jogo.
+* Aprendemos como manipular os dados de voz reconhecidos.
+* Vimos como exibir o que foi falado na tela.
