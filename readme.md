@@ -25,3 +25,9 @@ URL do curso -> [JavaScript - Validações e Reconhecimento de Voz](https://curs
 * Iniciamos o desenvolvimento do jogo de reconhecimento de voz com JavaScript do zero.
 * Estruturamos a página do jogo com HTML.
 * Escolhemos a fonte, as cores e estilizamos toda parte visual.
+
+***
+
+## 02 - Aplicando a Função Math.random &#x1F516;
+* Mudar o HTML de forma dinâmica.
+* Utilizar o método `Math.random()` para gerar números aleatórios.
